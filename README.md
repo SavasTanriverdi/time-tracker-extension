@@ -8,6 +8,9 @@ A lightweight, privacy‑friendly time tracker for Firefox. It measures how long
 - Offers Today, Week, and Stats views with an accessible canvas chart.
 - Full localization (i18n) with automatic UI language detection.
 
+  ![timertracker](https://github.com/user-attachments/assets/06eb7887-1b69-40b8-a995-848d0fe94352)
+
+
 ## Architecture
 
 ### Manifest (MV2)
