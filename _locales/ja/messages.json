@@ -1,0 +1,79 @@
+{
+  "extensionName": {
+    "message": "時間トラッカー"
+  },
+  "extensionDescription": {
+    "message": "さまざまなウェブサイトで過ごした時間を追跡します"
+  },
+  "extName": { "message": "時間トラッカー" },
+  "extDescription": { "message": "さまざまなウェブサイトで過ごした時間を追跡します" },
+  "logo_title": { "message": "時間トラッカー" },
+  "logoTitle": {
+    "message": "時間トラッカー"
+  },
+  "tabToday": {
+    "message": "今日"
+  },
+  "tabWeek": {
+    "message": "週"
+  },
+  "tabStats": {
+    "message": "統計"
+  },
+  "sectionTodayTitle": {
+    "message": "今日訪問したサイト"
+  },
+  "sectionWeekTitle": {
+    "message": "今週"
+  },
+  "sectionStatsTitle": {
+    "message": "統計"
+  },
+  "cardTotalTimeTitle": {
+    "message": "合計時間"
+  },
+  "cardTotalTimeSubtitle": {
+    "message": "今日過ごした時間"
+  },
+  "cardTopSiteTitle": {
+    "message": "トップサイト"
+  },
+  "cardTopSiteSubtitle": {
+    "message": "今日最も使用"
+  },
+  "cardSessionsTitle": {
+    "message": "セッション"
+  },
+  "cardSessionsSubtitle": {
+    "message": "訪問回数"
+  },
+  "statusActive": {
+    "message": "アクティブ"
+  },
+  "statusInactive": {
+    "message": "非アクティブ"
+  },
+  "emptyToday": {
+    "message": "今日はアクティビティがありません"
+  },
+  "emptyWeek": {
+    "message": "今週はアクティビティがありません"
+  },
+  "emptyStats": {
+    "message": "統計は利用できません"
+  },
+  "totalSites": {
+    "message": "訪問したサイト"
+  },
+  "averageDaily": {
+    "message": "1日平均"
+  },
+  "longestSession": {
+    "message": "最長セッション"
+  }
+  ,
+  "chart_days": { "message": "日" },
+  "chart_hours": { "message": "時間" },
+  "chart_title_week": { "message": "週間アクティビティ" },
+  "chart_desc_week": { "message": "週間アクティビティグラフ：曜日ごとの時間" }
+}

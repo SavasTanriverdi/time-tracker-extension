@@ -1,0 +1,7 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Retro-minimal timer icon (128px) -->
+  <rect x="8" y="8" width="112" height="112" rx="8" fill="#fffdf5" stroke="#2b2b2b" stroke-width="4"/>
+  <circle cx="64" cy="64" r="40" fill="none" stroke="#2b2b2b" stroke-width="5"/>
+  <line x1="64" y1="64" x2="92" y2="48" stroke="#ff7c2a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="104" cy="28" r="6" fill="#ff7c2a"/>
+</svg>

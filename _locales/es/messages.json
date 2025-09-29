@@ -1,0 +1,79 @@
+{
+  "extensionName": {
+    "message": "Rastreador de Tiempo"
+  },
+  "extensionDescription": {
+    "message": "Rastrea el tiempo que pasas en diferentes sitios web"
+  },
+  "extName": { "message": "Rastreador de Tiempo" },
+  "extDescription": { "message": "Rastrea el tiempo que pasas en diferentes sitios web" },
+  "logo_title": { "message": "Rastreador de Tiempo" },
+  "logoTitle": {
+    "message": "Rastreador de Tiempo"
+  },
+  "tabToday": {
+    "message": "Hoy"
+  },
+  "tabWeek": {
+    "message": "Semana"
+  },
+  "tabStats": {
+    "message": "Estadísticas"
+  },
+  "sectionTodayTitle": {
+    "message": "Sitios visitados hoy"
+  },
+  "sectionWeekTitle": {
+    "message": "Esta semana"
+  },
+  "sectionStatsTitle": {
+    "message": "Estadísticas"
+  },
+  "cardTotalTimeTitle": {
+    "message": "Tiempo total"
+  },
+  "cardTotalTimeSubtitle": {
+    "message": "Tiempo pasado hoy"
+  },
+  "cardTopSiteTitle": {
+    "message": "Sitio principal"
+  },
+  "cardTopSiteSubtitle": {
+    "message": "Más usado hoy"
+  },
+  "cardSessionsTitle": {
+    "message": "Sesiones"
+  },
+  "cardSessionsSubtitle": {
+    "message": "Número de visitas"
+  },
+  "statusActive": {
+    "message": "Activo"
+  },
+  "statusInactive": {
+    "message": "Inactivo"
+  },
+  "emptyToday": {
+    "message": "Sin actividad hoy"
+  },
+  "emptyWeek": {
+    "message": "Sin actividad esta semana"
+  },
+  "emptyStats": {
+    "message": "No hay estadísticas disponibles"
+  },
+  "totalSites": {
+    "message": "Sitios visitados"
+  },
+  "averageDaily": {
+    "message": "Promedio diario"
+  },
+  "longestSession": {
+    "message": "Sesión más larga"
+  }
+  ,
+  "chart_days": { "message": "Días" },
+  "chart_hours": { "message": "Horas" },
+  "chart_title_week": { "message": "Actividad semanal" },
+  "chart_desc_week": { "message": "Gráfico de actividad semanal: horas por día" }
+}

@@ -1,0 +1,34 @@
+{
+  "extName": { "message": "Time Tracker" },
+  "extDescription": { "message": "Track and analyze your browsing time professionally." },
+
+  "logo_title": { "message": "Time Tracker" },
+  "today": { "message": "Today" },
+  "tab_today": { "message": "Today" },
+  "tab_week": { "message": "This Week" },
+  "tab_stats": { "message": "Statistics" },
+
+  "section_mostVisited": { "message": "Top Visited Sites" },
+  "section_weekActivity": { "message": "Weekly Activity" },
+  "section_generalStats": { "message": "General Statistics" },
+
+  "card_total_title": { "message": "Total Time" },
+  "card_today_title": { "message": "Today" },
+  "card_total_subtitle": { "message": "All time" },
+  "card_today_subtitle": { "message": "Active time" },
+
+  "status_active": { "message": "Actively tracking" },
+
+  "empty_noData": { "message": "No data yet" },
+  "empty_start": { "message": "Start visiting websites" },
+
+  "stat_total": { "message": "Total Time" },
+  "stat_week": { "message": "This Week" },
+  "stat_avgDaily": { "message": "Daily Avg." },
+  "stat_activeSites": { "message": "Active Sites" }
+  ,
+  "chart_days": { "message": "Days" },
+  "chart_hours": { "message": "Hours" },
+  "chart_title_week": { "message": "Weekly Activity" },
+  "chart_desc_week": { "message": "Weekly activity chart: hours by day" }
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=400, height=600, initial-scale=1.0">
+    <title>Time Tracker</title>
+    <link rel="stylesheet" href="popup.css">
+    <!-- Using system retro fonts; external font link removed -->
+    <style>
+        html, body {
+            width: 400px !important;
+            height: 600px !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            overflow: hidden !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <h1 class="logo-text">Time Tracker</h1>
+                </div>
+                <div class="header-stats">
+                    <span class="today-label">Today</span>
+                    <span class="today-time" id="headerTodayTime">0h 0m</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Summary Cards -->
+                <div class="summary-cards">
+                <div class="card total-card">
+                    <div class="card-header">
+                        <span class="card-title">Toplam Süre</span>
+                    </div>
+                    <div class="card-value" id="totalTimeValue">00:00:00</div>
+                    <div class="card-subtitle">Tüm zamanlar</div>
+                </div>
+
+                <div class="card today-card">
+                    <div class="card-header">
+                        <span class="card-title">Bugün</span>
+                    </div>
+                    <div class="card-value" id="todayTimeValue">00:00</div>
+                    <div class="card-subtitle">Aktif zaman</div>
+                </div>
+                </div>
+
+            <!-- Navigation Tabs -->
+            <div class="nav-tabs">
+                <button class="tab-btn retro-button active" data-tab="today">TODAY</button>
+                <button class="tab-btn retro-button" data-tab="week">THIS WEEK</button>
+                <button class="tab-btn retro-button" data-tab="stats">STATISTICS</button>
+            </div>
+
+            <!-- Tab Content -->
+            <div class="tab-content">
+                <!-- Today Tab -->
+                <div class="tab-panel active" id="today-panel">
+                    <div class="section-title">Top Visited Sites</div>
+                    <div class="sites-list" id="sitesList">
+                        <!-- Sites will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Week Tab -->
+                <div class="tab-panel" id="week-panel">
+                    <div class="section-title">Weekly Activity</div>
+                    <div class="week-stats" id="weekStats">
+                        <!-- Week stats will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Stats Tab -->
+                <div class="tab-panel" id="stats-panel">
+                    <div class="section-title">General Statistics</div>
+                    <div class="stats-grid" id="statsGrid">
+                        <div class="stat-item">
+                            <div class="stat-label">Daily Average</div>
+                            <div class="stat-value" id="avgDaily">0h 0m</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-label">Most Active Day</div>
+                            <div class="stat-value" id="mostActiveDay">-</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-label">Total Sites</div>
+                            <div class="stat-value" id="totalSites">0</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-label">This Week</div>
+                            <div class="stat-value" id="thisWeek">0h 0m</div>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="weekChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-info">
+                <span class="status-indicator active"></span>
+                <span class="status-text">Actively tracking</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

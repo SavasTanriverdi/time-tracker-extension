@@ -1,0 +1,34 @@
+{
+  "extName": { "message": "Zaman Takipçisi" },
+  "extDescription": { "message": "Firefox'ta geçirdiğiniz zamanı profesyonelce takip edin ve analiz edin." },
+
+  "logo_title": { "message": "TIMER" },
+  "today": { "message": "Bugün" },
+  "tab_today": { "message": "Bugün" },
+  "tab_week": { "message": "Bu Hafta" },
+  "tab_stats": { "message": "İstatistikler" },
+
+  "section_mostVisited": { "message": "En Çok Ziyaret Edilen Siteler" },
+  "section_weekActivity": { "message": "Haftalık Aktivite" },
+  "section_generalStats": { "message": "Genel İstatistikler" },
+
+  "card_total_title": { "message": "Toplam Süre" },
+  "card_today_title": { "message": "Bugün" },
+  "card_total_subtitle": { "message": "Tüm zamanlar" },
+  "card_today_subtitle": { "message": "Aktif zaman" },
+
+  "status_active": { "message": "Aktif olarak takip ediliyor" },
+
+  "empty_noData": { "message": "Henüz veri yok" },
+  "empty_start": { "message": "Web sitelerini ziyaret etmeye başlayın" },
+
+  "stat_total": { "message": "Toplam Süre" },
+  "stat_week": { "message": "Bu Hafta" },
+  "stat_avgDaily": { "message": "Günlük Ort." },
+  "stat_activeSites": { "message": "Aktif Siteler" }
+  ,
+  "chart_days": { "message": "Günler" },
+  "chart_hours": { "message": "Saat" },
+  "chart_title_week": { "message": "Haftalık Aktivite" },
+  "chart_desc_week": { "message": "Haftalık aktivite grafiği: güne göre saatler" }
+}

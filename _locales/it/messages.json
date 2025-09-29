@@ -1,0 +1,79 @@
+{
+  "extensionName": {
+    "message": "Tracker del Tempo"
+  },
+  "extensionDescription": {
+    "message": "Tieni traccia del tempo trascorso su diversi siti web"
+  },
+  "extName": { "message": "Tracker del Tempo" },
+  "extDescription": { "message": "Tieni traccia del tempo trascorso su diversi siti web" },
+  "logo_title": { "message": "Tracker del Tempo" },
+  "logoTitle": {
+    "message": "Tracker del Tempo"
+  },
+  "tabToday": {
+    "message": "Oggi"
+  },
+  "tabWeek": {
+    "message": "Settimana"
+  },
+  "tabStats": {
+    "message": "Statistiche"
+  },
+  "sectionTodayTitle": {
+    "message": "Siti visitati oggi"
+  },
+  "sectionWeekTitle": {
+    "message": "Questa settimana"
+  },
+  "sectionStatsTitle": {
+    "message": "Statistiche"
+  },
+  "cardTotalTimeTitle": {
+    "message": "Tempo totale"
+  },
+  "cardTotalTimeSubtitle": {
+    "message": "Tempo trascorso oggi"
+  },
+  "cardTopSiteTitle": {
+    "message": "Sito principale"
+  },
+  "cardTopSiteSubtitle": {
+    "message": "Più utilizzato oggi"
+  },
+  "cardSessionsTitle": {
+    "message": "Sessioni"
+  },
+  "cardSessionsSubtitle": {
+    "message": "Numero di visite"
+  },
+  "statusActive": {
+    "message": "Attivo"
+  },
+  "statusInactive": {
+    "message": "Inattivo"
+  },
+  "emptyToday": {
+    "message": "Nessuna attività oggi"
+  },
+  "emptyWeek": {
+    "message": "Nessuna attività questa settimana"
+  },
+  "emptyStats": {
+    "message": "Nessuna statistica disponibile"
+  },
+  "totalSites": {
+    "message": "Siti visitati"
+  },
+  "averageDaily": {
+    "message": "Media giornaliera"
+  },
+  "longestSession": {
+    "message": "Sessione più lunga"
+  }
+  ,
+  "chart_days": { "message": "Giorni" },
+  "chart_hours": { "message": "Ore" },
+  "chart_title_week": { "message": "Attività settimanale" },
+  "chart_desc_week": { "message": "Grafico attività settimanale: ore per giorno" }
+}

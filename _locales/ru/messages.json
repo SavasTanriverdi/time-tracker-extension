@@ -1,0 +1,79 @@
+{
+  "extensionName": {
+    "message": "Трекер Времени"
+  },
+  "extensionDescription": {
+    "message": "Отслеживайте время, проведенное на различных веб-сайтах"
+  },
+  "extName": { "message": "Трекер Времени" },
+  "extDescription": { "message": "Отслеживайте время, проведенное на различных веб-сайтах" },
+  "logo_title": { "message": "Трекер Времени" },
+  "logoTitle": {
+    "message": "Трекер Времени"
+  },
+  "tabToday": {
+    "message": "Сегодня"
+  },
+  "tabWeek": {
+    "message": "Неделя"
+  },
+  "tabStats": {
+    "message": "Статистика"
+  },
+  "sectionTodayTitle": {
+    "message": "Сайты, посещенные сегодня"
+  },
+  "sectionWeekTitle": {
+    "message": "На этой неделе"
+  },
+  "sectionStatsTitle": {
+    "message": "Статистика"
+  },
+  "cardTotalTimeTitle": {
+    "message": "Общее время"
+  },
+  "cardTotalTimeSubtitle": {
+    "message": "Время, проведенное сегодня"
+  },
+  "cardTopSiteTitle": {
+    "message": "Главный сайт"
+  },
+  "cardTopSiteSubtitle": {
+    "message": "Наиболее используемый сегодня"
+  },
+  "cardSessionsTitle": {
+    "message": "Сессии"
+  },
+  "cardSessionsSubtitle": {
+    "message": "Количество посещений"
+  },
+  "statusActive": {
+    "message": "Активен"
+  },
+  "statusInactive": {
+    "message": "Неактивен"
+  },
+  "emptyToday": {
+    "message": "Сегодня нет активности"
+  },
+  "emptyWeek": {
+    "message": "На этой неделе нет активности"
+  },
+  "emptyStats": {
+    "message": "Статистика недоступна"
+  },
+  "totalSites": {
+    "message": "Посещенные сайты"
+  },
+  "averageDaily": {
+    "message": "Среднее за день"
+  },
+  "longestSession": {
+    "message": "Самая длинная сессия"
+  }
+  ,
+  "chart_days": { "message": "Дни" },
+  "chart_hours": { "message": "Часы" },
+  "chart_title_week": { "message": "Еженедельная активность" },
+  "chart_desc_week": { "message": "График еженедельной активности: часы по дням" }
+}
